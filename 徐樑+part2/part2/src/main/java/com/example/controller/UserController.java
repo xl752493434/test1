@@ -35,9 +35,9 @@ public class UserController {
     }
     //修改用户信息
     @RequestMapping("/updateUser")
-    public String updateUser(int id, String userPassword){
-        String sql = "update user set user_password=? where id = ?";
-        int rows = jdbcTemplate.update(sql, userPassword, id);
+    public String updateUser(int id, String userName, String userPassword){
+        String sql = "update user set user_name=? and user_password=? where id = ?";
+        int rows = jdbcTemplate.update(sql, userName, userPassword, id);
         return "执行成功，影响" + rows + "行";
     }
     //查询用户信息
