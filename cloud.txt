@@ -1,0 +1,1 @@
+[{"type":"西瓜","count":248,"id":1},{"type":"草莓","count":220,"id":2},{"type":"甜瓜","count":210,"id":3},{"type":"辣椒","count":180,"id":4},{"type":"茄子","count":190,"id":5},{"type":"白菜","count":170,"id":6},{"type":"萝卜","count":175,"id":7},{"type":"香菜","count":160,"id":8},{"type":"苦瓜","count":150,"id":9},{"type":"甘蓝","count":100,"id":10}]

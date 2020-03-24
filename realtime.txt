@@ -1,0 +1,1 @@
+[{"marketSum":250,"typeSum":43,"varietySum":399,"count":12345678,"dailyCount":2345,"crawlTime":"2020-03-21T11:22:33","id":1}]
